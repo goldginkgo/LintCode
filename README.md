@@ -14,7 +14,7 @@ Python solution for LintCode problems.
 | 141 | [Sqrt(x)][p141]                                                     | Binary Search                | [Python][s141] | Easy       |
 | 74  | [First Bad Version][p74]                                            | Binary Search                | [Python][s74]  | Medium     |
 | 60  | [Search Insert Position][p60]                                       | Binary Search                | [Python][s60]  | Easy       |
-| 75  | [Find Peak Element][p]                                              | Binary Search                | [Python][s]    | Medium     |
+| 75  | [Find Peak Element][p75]                                            | Binary Search                | [Python][s75]    | Medium     |
 | 28  | [Search a 2D Matrix][p28]                                           | Binary Search                | [Python][s28]  | Easy       |
 | 38  | [Search a 2D Matrix II][p38]                                        | Binary Search                | [Python][s38]  | Medium     |
 | 159 | [Find Minimum in Rotated Sorted Array][p159]                        | Binary Search                | [Python][s159] | Medium     |

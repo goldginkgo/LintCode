@@ -39,8 +39,8 @@ Python solution for LintCode problems.
 [p38]:http://www.lintcode.com/en/problem/search-a-2d-matrix-ii/
 [p60]:http://www.lintcode.com/en/problem/search-insert-position/
 [p61]:http://www.lintcode.com/en/problem/search-for-a-range/
-[p62]:http://www.lintcode.com/en/problem/search-in-rotated-sorted-array.py/
-[p63]:http://www.lintcode.com/en/problem/search-in-rotated-sorted-array-ii.py/
+[p62]:http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/
+[p63]:http://www.lintcode.com/en/problem/search-in-rotated-sorted-array-ii/
 [p66]:http://www.lintcode.com/en/problem/binary-tree-preorder-traversal/
 [p67]:http://www.lintcode.com/en/problem/binary-tree-inorder-traversal/
 [p68]:http://www.lintcode.com/en/problem/binary-tree-postorder-traversal/
@@ -49,10 +49,10 @@ Python solution for LintCode problems.
 [p97]:http://www.lintcode.com/en/problem/minimum-depth-of-binary-tree/
 [p141]:http://www.lintcode.com/en/problem/sqrtx/
 [p155]:http://www.lintcode.com/en/problem/maximum-depth-of-binary-tree/
-[p159]:http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array.py.py/
-[p160]:http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array-ii.py/
-[p183]:http://www.lintcode.com/en/problem/wood-cut.py/
-[p447]:http://www.lintcode.com/en/problem/search-in-a-big-sorted-array.py/
+[p159]:http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/
+[p160]:http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array-ii/
+[p183]:http://www.lintcode.com/en/problem/wood-cut/
+[p447]:http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/
 
 
 
@@ -66,14 +66,14 @@ Python solution for LintCode problems.
 [s61]:./solution/search-for-a-range.py
 [s62]:./solution/search-in-rotated-sorted-array.py
 [s63]:./solution/search-in-rotated-sorted-array-ii.py
-[s66]:./solution/binary-tree-preorder-traversal
-[s67]:./solution/binary-tree-inorder-traversal
-[s68]:./solution/binary-tree-postorder-traversal
+[s66]:./solution/binary-tree-preorder-traversal.py
+[s67]:./solution/binary-tree-inorder-traversal.py
+[s68]:./solution/binary-tree-postorder-traversal.py
 [s74]:./solution/first-bad-version.py
 [s75]:./solution/find-peak-element.py
-[s97]:./solution/minimum-depth-of-binary-tree
+[s97]:./solution/minimum-depth-of-binary-tree.py
 [s141]:./solution/sqrtx.py
-[s155]:./solution/maximum-depth-of-binary-tree
+[s155]:./solution/maximum-depth-of-binary-tree.py
 [s159]:./solution/find-minimum-in-rotated-sorted-array.py
 [s160]:./solution/find-minimum-in-rotated-sorted-array-ii.py
 [s183]:./solution/wood-cut.py

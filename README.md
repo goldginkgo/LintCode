@@ -2,11 +2,11 @@
 Python solution for LintCode problems.
 
 
-| No. | Problem                                                             | Tag                          | Solution      | Difficulty  |
-|-----|---------------------------------------------------------------------|------------------------------|---------------|-------------|
-| 13  | [strStr][p13]                                                       | String                       | [Python][s13] | Easy      |
-| 17  | [subsets][p17]                                                      | Recursion                    | [Python][s17] | Medium    |
-| 18  | [subsets_ii][p18]                                                   | Recursion                    | [Python][s18] | Medium    |
+| No. | Problem                                                             | Tag                          | Solution       | Difficulty |
+|-----|---------------------------------------------------------------------|------------------------------|----------------|------------|
+| 13  | [strStr][p13]                                                       | String                       | [Python][s13]  | Easy       |
+| 17  | [subsets][p17]                                                      | Recursion                    | [Python][s17]  | Medium     |
+| 18  | [subsets_ii][p18]                                                   | Recursion                    | [Python][s18]  | Medium     |
 
 
 
@@ -15,6 +15,6 @@ Python solution for LintCode problems.
 [p18]:http://www.lintcode.com/en/problem/subsets-ii/
 
 
-[s13]:./solutions/strstr.py
-[s17]:./solutions/subsets.py
-[s18]:./solutions/subsets_ii.py
+[s13]:./solution/strstr.py
+[s17]:./solution/subsets.py
+[s18]:./solution/subsets_ii.py

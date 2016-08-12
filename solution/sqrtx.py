@@ -12,7 +12,7 @@ Question:
         sqrt(10) = 3
 
 Analysis:
-    Binary search. Find the last number which square of it <= x.
+    Binary search. Find last number that number^2 <= x.
 """
 
 class Solution:
